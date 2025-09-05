@@ -1,8 +1,6 @@
 # 📊 Customer & Product Sales Insights Dashboard
 
-_This Power BI dashboard provides a comprehensive view of sales performance across customers, products, categories, 
-and regions. It is designed to help business users quickly identify trends, top performers, and key insights 
-through interactive visuals and tooltips._
+_This Power BI dashboard provides a comprehensive view of sales performance across customers, products, categories, and regions. It is designed to help business users quickly identify trends, top performers, and key insights through interactive visuals and tooltips._
 
 #### 🔹 Key Features:
 
