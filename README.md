@@ -30,3 +30,6 @@ _This solution enables stakeholders to:_
 - Compare sales performance across regions and categories.
 - Track monthly sales trends and detect growth or decline.
 - Use tooltips for drill-through insights without cluttering the main dashboard.
+
+#### 📸 Dashboard Preview
+![Dashboard Screenshot](Dashboard/1-Dashboard.PNG)
